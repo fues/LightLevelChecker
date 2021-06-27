@@ -24,3 +24,9 @@ MODの[Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay
 
 - キノコバイオーム・ネザー等には非対応
 - 湧き条件のブロックは手作業で登録してるためただしくないかもしれない
+
+## License
+
+このデータパックは MITライセンス下で公開されています。LICENSE.txtを見てください
+
+This datapack is released under the MIT License, see LICENSE.txt.
