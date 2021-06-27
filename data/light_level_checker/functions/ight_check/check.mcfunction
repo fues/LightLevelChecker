@@ -1,0 +1,2 @@
+execute unless predicate light_level_checker:is_not_spawnable_on_block if predicate light_level_checker:is_light_ok run particle dust 0.451 0.992 0.239 1 ~0.5 ~1 ~0.5 0.1 0 0.1 0 1 force
+execute unless predicate light_level_checker:is_not_spawnable_on_block unless predicate light_level_checker:is_light_ok run particle dust 0.902 0 0.122 1 ~0.5 ~1 ~0.5 0.1 0 0.1 0 1 force

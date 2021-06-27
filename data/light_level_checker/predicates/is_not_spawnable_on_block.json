@@ -1,0 +1,103 @@
+{
+    "condition": "alternative",
+    "terms": [
+        {
+            "condition": "location_check",
+            "predicate": {
+                "block": {
+                    "tag": "light_level_checker:mob_not_spawnable_on"
+                }
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "block": {
+                    "tag": "minecraft:slabs",
+                    "state": {
+                        "type": "bottom"
+                    }
+                }
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "block": {
+                    "tag": "minecraft:stairs",
+                    "state": {
+                        "half": "bottom"
+                    }
+                }
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "block": {
+                    "blocks": ["snow"],
+                    "state": {
+                        "layers":{
+                            "min":2
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "block": {
+                    "blocks": ["piston_head"],
+                    "state": {
+                        "facing":"down"
+                    }
+                }
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "block": {
+                    "blocks": ["piston_head"],
+                    "state": {
+                        "facing":"east"
+                    }
+                }
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "block": {
+                    "blocks": ["piston_head"],
+                    "state": {
+                        "facing":"west"
+                    }
+                }
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "block": {
+                    "blocks": ["piston_head"],
+                    "state": {
+                        "facing":"south"
+                    }
+                }
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "block": {
+                    "blocks": ["piston_head"],
+                    "state": {
+                        "facing":"north"
+                    }
+                }
+            }
+        }
+    ]
+}

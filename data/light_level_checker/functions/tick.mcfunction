@@ -1,0 +1,1 @@
+execute as @a[predicate=light_level_checker:is_hold_light_item] run function light_level_checker:ight_check/tick

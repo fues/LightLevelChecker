@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "description": "Display monster spawnable block when hold DayLightDetector on offhand",
+        "pack_format": 7
+    }
+}

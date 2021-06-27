@@ -1,0 +1,33 @@
+{
+    "replace": false,
+    "values": [
+        "#minecraft:bee_growables",
+        "#minecraft:climbable",
+        "#minecraft:small_flowers",
+        "#minecraft:tall_flowers",
+        "minecraft:acacia_sapling",
+        "minecraft:air",
+        "minecraft:big_dripleaf_stem",
+        "minecraft:birch_sapling",
+        "minecraft:brown_mushroom",
+        "minecraft:cave_air",
+        "minecraft:crimson_fungus",
+        "minecraft:crimson_nylium",
+        "minecraft:crimson_roots",
+        "minecraft:dark_oak_sapling",
+        "minecraft:fern",
+        "minecraft:grass",
+        "minecraft:jungle_sapling",
+        "minecraft:large_fern",
+        "minecraft:nether_sprouts",
+        "minecraft:oak_sapling",
+        "minecraft:red_mushroom",
+        "minecraft:small_dripleaf",
+        "minecraft:spruce_sapling",
+        "minecraft:sugar_cane",
+        "minecraft:tall_grass",
+        "minecraft:warped_fungus",
+        "minecraft:warped_nylium",
+        "minecraft:warped_roots"
+    ]
+}

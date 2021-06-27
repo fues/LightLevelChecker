@@ -1,0 +1,1 @@
+execute as @s at @s run function light_level_checker:ight_check/pos
