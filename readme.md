@@ -23,6 +23,7 @@ MODの[Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay
 ## 注意
 
 - キノコバイオーム・ネザー等には非対応
+- スポナーには非対応
 - 湧き条件のブロックは手作業で登録してるためただしくないかもしれない
 
 ## License
